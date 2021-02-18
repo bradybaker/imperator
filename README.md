@@ -61,7 +61,7 @@ Run the following commands from within your project folder.
 2. In terminal, navigate to your project folder and type `heroku create`
 3. Type `git remote -v` to ensure it added successfully
 4. In terminal, type `git push heroku main`
-5. Our website is now live! However... we also have a database
+5. You will need to add a MONGO_URI to your config env on heroku. 
 
 ## Screenshots
 
