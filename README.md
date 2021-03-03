@@ -4,7 +4,7 @@ Imperator is an internal tool to easily see client information in one place. Wit
 
 ## Group members
 
-[@Brady](https://github.com/bradybaker)
+[@James](https://github.com/jposeyjr)
 [@Malik](https://github.com/MalikElate)
 [@Josie](https://github.com/freder48)
 [@Kim](https://github.com/korchard)
@@ -61,7 +61,7 @@ Run the following commands from within your project folder.
 2. In terminal, navigate to your project folder and type `heroku create`
 3. Type `git remote -v` to ensure it added successfully
 4. In terminal, type `git push heroku main`
-5. You will need to add a MONGO_URI to your config env on heroku. 
+5. You will need to add a MONGO_URI to your config env on heroku.
 
 ## Screenshots
 
